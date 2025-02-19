@@ -193,7 +193,6 @@ n,r,m
 (:遗迹 {name: 制陶遗存}),[:contains],(:遗迹 {name: 陶窑Ⅳ Y2})
 (:遗迹 {name: 制陶遗存}),[:contains],(:遗迹 {name: 陶窑Ⅳ Y3})
 (:遗迹 {name: 制陶遗存}),[:contains],(:遗迹 {name: 陶窑Ⅴ Y1})
-({name: 二里头遗址}),[:excavated],(:遗迹 {name: 手工业作坊遗迹})
 (:遗迹 {name: 制骨作坊}),[:contains],(:遗迹 {name: 1号制骨作坊})
 (:遗迹 {name: 制骨作坊}),[:contains],(:遗迹 {name: 2号制骨作坊})
 (:器物 {name: 陶器}),[:wasExcavatedin],(:其他遗址 {name: 八里桥遗址})
